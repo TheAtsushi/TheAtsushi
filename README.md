@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theatsushi&label=Profile%20views&color=0e75b6&style=flat" alt="theatsushi" /> </p>
 
-- 🔭 I’m currently working on **DoteApp Remake**
+- 🔭 I’m currently working on **[Secret]**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C#, React, JavaScript**
+- 💬 Ask me about **C# and JavaScript**
 
 - 📫 How to reach me **atsushi.programmer@gmail.com**
 
